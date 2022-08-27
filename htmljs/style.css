@@ -1,0 +1,19 @@
+
+.imgs img{
+    width:150px;
+    height: 110px;
+    display: inline;
+    border: 5px solid gray;
+}
+.main img{
+    width:640px;
+    height: 300px;
+    border: 5px solid gray;
+}
+.imgs img:hover{
+    border: 5px solid green;
+    cursor: pointer;
+}
+.container{
+    background: rgb(244, 124, 208);
+}
